@@ -1,0 +1,15 @@
+#PubkeyAuthentication yes
+#AuthorizedKeysFile	.ssh/authorized_keys .ssh/authorized_keys2
+#PasswordAuthentication yes
+# PasswordAuthentication.  Depending on your PAM configuration,
+# PAM authentication, then enable this but set PasswordAuthentication
+Oct 16 06:30:15 ubuntu sshd[3221]: Timeout before authentication for connection from 192.168.247.1 to 192.168.247.133, pid = 3223
+Oct 16 06:30:44 ubuntu sshd-session[3237]: Invalid user student from 192.168.247.1 port 50325
+Oct 16 06:30:55 ubuntu sshd-session[3237]: pam_unix(sshd:auth): check pass; user unknown
+Oct 16 06:30:55 ubuntu sshd-session[3237]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.247.1
+Oct 16 06:30:58 ubuntu sshd-session[3237]: Failed password for invalid user student from 192.168.247.1 port 50325 ssh2
+Oct 16 06:31:30 ubuntu sshd-session[3237]: pam_unix(sshd:auth): check pass; user unknown
+Oct 16 06:31:31 ubuntu sshd-session[3237]: Failed password for invalid user student from 192.168.247.1 port 50325 ssh2
+Oct 16 06:32:47 ubuntu sshd[3221]: Timeout before authentication for connection from 192.168.247.1 to 192.168.247.133, pid = 3237
+Oct 16 06:33:20 ubuntu sshd-session[3244]: Accepted password for nibasadiq from 192.168.247.1 port 50364 ssh2
+Oct 16 06:33:20 ubuntu sshd-session[3244]: pam_unix(sshd:session): session opened for user nibasadiq(uid=1000) by nibasadiq(uid=0)
