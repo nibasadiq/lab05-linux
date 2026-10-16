@@ -1,0 +1,1 @@
+/bin is a shortcut link to /usr/bin, kept so that old programs still work. /usr/bin is where most common commands like ls, git, and python3 live as installed by Ubuntu. Meanwhile, /usr/local/bin is meant for programs that you add by hand, keeping them separate from Ubuntu's own files.

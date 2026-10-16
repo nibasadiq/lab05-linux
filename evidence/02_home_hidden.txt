@@ -1,0 +1,17 @@
+total 64
+drwxr-x--- 10 nibasadiq nibasadiq 4096 Oct 16 06:47 .
+drwxr-xr-x  3 root      root      4096 Sep 18 06:08 ..
+-rw-------  1 nibasadiq nibasadiq  201 Oct 10 14:40 .bash_history
+-rw-r--r--  1 nibasadiq nibasadiq  220 Feb 13  2026 .bash_logout
+-rw-r--r--  1 nibasadiq nibasadiq 3771 Feb 13  2026 .bashrc
+drwx------  2 nibasadiq nibasadiq 4096 Sep 18 06:53 .cache
+-rw-rw-r--  1 nibasadiq nibasadiq  182 Oct 16 06:47 .gitconfig
+-rw-------  1 nibasadiq nibasadiq   20 Oct 10 14:43 .lesshst
+-rw-r--r--  1 nibasadiq nibasadiq  807 Feb 13  2026 .profile
+drwx------  2 nibasadiq nibasadiq 4096 Oct 16 06:45 .ssh
+drwxrwxr-x  3 nibasadiq nibasadiq 4096 Oct 10 17:42 Assignment01
+drwxrwxr-x  5 nibasadiq nibasadiq 4096 Oct 10 14:48 CC
+drwxrwxr-x  3 nibasadiq nibasadiq 4096 Oct 10 15:11 Gitea
+drwxrwxr-x  5 nibasadiq nibasadiq 4096 Oct 16 06:47 lab05-linux
+drwxrwxr-x  2 nibasadiq nibasadiq 4096 Oct 10 14:31 p
+drwxrwxr-x  2 nibasadiq nibasadiq 4096 Oct 10 14:12 ~p
